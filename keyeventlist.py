@@ -1,4 +1,4 @@
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 __author__ = 'Administrator'
 
 background_image_filename = 'sushiplate.jpg'
